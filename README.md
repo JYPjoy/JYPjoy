@@ -1,4 +1,4 @@
-<h2 align="center">🙌🏻 Hello, I'm JOY! <br/><br/>✨ As an iOS Developer I can do... ✨ </h2>
+<h2 align="center">🙌🏻 Hi, I'm JOY! <br/><br/>✨ As an iOS Developer I can do... ✨ </h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
