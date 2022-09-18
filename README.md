@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
 </div>
 <br/>
 <br/>
