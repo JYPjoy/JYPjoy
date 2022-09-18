@@ -1,9 +1,5 @@
-<h2 align="center">🙌🏻 Hello, I'm JOY!</h2>
-<h3 align="center">
-    <a href="https://jypjoy.notion.site/Joy-91e9759179db459abe7bba7321031dd1"> ABOUT ME <a>
-</h3>
-<br/>
-<h2 align="center">✨ As an iOS Developer I can do... ✨</h2>
+<h2 align="center">🙌🏻 Hello, I'm JOY! <br/><br/>As an iOS Developer I can do... </h2>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/Objc-000000?style=flat&logo=Apple&logoColor=white">
