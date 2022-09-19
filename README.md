@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/UI-2396F3?style=flat&logo=UIkit&logoColor=white">
   <img src="https://img.shields.io/badge/API call-FF6C37?style=flat&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=ReactiveX&logoColor=white">
-  <img src="https://img.shields.io/badge/Library-ECD53F?style=flat&logo=LibraryThing&logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/Libraries-ECD53F?style=flat&logo=LibraryThing&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/MVC-D9272E?style=flat&logo=MEGA&logoColor=white">
   <img src="https://img.shields.io/badge/MVVM-14233C?style=flat&logo=Monzo&logoColor=white">
   <img src="https://img.shields.io/badge/Coordinator-3CBDB1?style=flat&logo=C&logoColor=white">
@@ -32,3 +32,4 @@
 <!--<div align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJYPjoy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>-->
+
